@@ -1,6 +1,5 @@
 <h1 align="center">Hi! , I'm José Armando. 👽</h1>
-<h3 align="center">I'm a <code>FrontEnd Developer</code> </h3>
-<h4 align="center"> Interested and passionate about learning new technologies and sharing my knowledge with others 😋</h4>
+<h4 align="center">I'm a passionate self-taught <code>FrontEnd Developer</code>  😋</h4>
 
 - 🔭 I’m currently working on **Vue JS and Flutter.**
 
